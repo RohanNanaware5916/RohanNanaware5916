@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Rohan 👋
 MS in Business Analytics | Data & Business Analytics | Salesforce Marketing Cloud
 
 ## 🚀 Highlight Projects
